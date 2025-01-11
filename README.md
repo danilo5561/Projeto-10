@@ -45,4 +45,5 @@ Realizar uma análise detalhada do mercado de restaurantes em Los Angeles para e
 
 Contato
 Caso tenha dúvidas ou queira contribuir, entre em contato pelo e-mail: lara.danilo25@gmail.com
+
 [Danilo José](https://www.linkedin.com/in/danilojosedelara/)
